@@ -1,0 +1,18 @@
+# Python for Network Automation - Course Requirements
+# These libraries are installed automatically when your Codespace starts.
+# You do not need to run pip install manually.
+
+# Unit 1-2: Core scripting
+requests
+
+# Unit 3: REST APIs (already covered by requests above)
+
+# Unit 4: Network automation
+netmiko
+pyyaml
+jinja2
+paramiko
+schedule
+
+# Utilities used throughout the course
+ipaddress
